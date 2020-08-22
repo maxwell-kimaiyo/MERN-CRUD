@@ -1,8 +1,11 @@
 # MERN CRUD
 
-A simple records system using MongoDB, Express.js, React.js, and Node.js with Create, Read, Update, and Delete operations REST API was implemented on the back-end.  React was used for the UI.
+This is a simple products records system using MongoDB, Express.js, React.js, and Node.js with Create, Read, Update, and Delete operations REST API was implemented on the back-end.  React was used for the UI.
 
-[[https://github.com/maxwell-kimaiyo/repository/MERN-CRUD/master/Capture.JPG|alt=octocat]]
+**raw.githubusercontent.com**:
+
+<img src="https://raw.githubusercontent.com/maxwell-kimaiyo/MERN-CRUD/master/Capture.JPG?raw=true"/>
+
 
 ## Getting Started
 
@@ -16,6 +19,8 @@ Your machine should have npm(or yarn), NodeJS and MongoDB server installed to us
 git clone https://github.com/maxwell-kimaiyo/MERN-CRUD.git
 
 - Install server dependencies(in root directory)
+
+```
 
 ```js
 npm install
