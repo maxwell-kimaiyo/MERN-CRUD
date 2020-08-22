@@ -1,6 +1,6 @@
 # MERN CRUD
 
-This is a simple system that records using MongoDB, Express.js, React.js, and Node.js with Create, Read, Update, and Delete operations REST API was implemented on the back-end.  React/Redux was used for the UI.
+This is a simple system that keep records build using MongoDB, Express.js, React.js, and Node.js with Create, Read, Update, and Delete operations REST API was implemented on the back-end.  React/Redux was used for the UI.
 
 
 <img src="https://raw.githubusercontent.com/maxwell-kimaiyo/MERN-CRUD/master/Capture.JPG?raw=true"/>
